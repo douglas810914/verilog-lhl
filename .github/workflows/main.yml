@@ -1,4 +1,4 @@
-name: deploy Lnadingpages
+name: deploy dungsem
 
 on:
   push:
